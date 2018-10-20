@@ -1,0 +1,11 @@
+
+Ösquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø€Ñë8πçêˇÂ,HqRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(˚ﬁÓô8ºƒñ£Á,HrRMAJORZ
+CODE_SMELL
+Ösquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(◊ﬁ“≤8»«¶˛Â,HsRMINORZ
+CODE_SMELL
+¡%squid:RedundantThrowsDeclarationCheckE"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ı«˚‡8Áìß£Á,HtRMINORZ
+CODE_SMELL
+Ösquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ±º8µÕ˚˛Â,HuRMINORZ
+CODE_SMELL

@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+'''
+Created on 18 Oct 2018
+
+@author: Jitender
+'''
+import sys
+from urllib2 import urlopen
+from urllib2 import socket
+
+
+def fetch_words(url):
+    """Fetch a list of words from a url.
+    Args:
+        url
+    
+    Returns:
+        A list of words from the line
+    """
+    story = urlopen(url,data=None,timeout=socket._GLOBAL_DEFAULT_TIMEOUT,cafile=None,capath=None,context=None)
+    story_words = []
+    for line in story:
+        line_words = line.decode('utf-8').split()
+        for word in line_words:
+            story_words.append(word)
+     
+    return story_words
+
+
+def print_items(items):               
+    for item in items:
+        print(item)
+        
+        
+def main(url):
+    words = fetch_words(url)
+    print_items(words)
+        
+if __name__ == '__main__':
+    main(sys.argv[1]) #
+    
+    

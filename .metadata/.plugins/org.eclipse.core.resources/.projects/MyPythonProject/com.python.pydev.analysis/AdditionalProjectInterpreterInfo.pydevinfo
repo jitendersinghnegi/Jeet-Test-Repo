@@ -1,0 +1,19 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/Jitender/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/MyPythonProject/com.python.pydev.analysis/v2_indexcache
+FetchStory|1539956297000000000|/Users/Jitender/eclipse-workspace/MyPythonProject/src/FetchStory.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/Users/Jitender/eclipse-workspace/MyPythonProject/src/FetchStory.py
+2=FetchStory
+-- END DICTIONARY
+-- START TREE 1
+3
+fet|1|fetch_words!1^11#5*18@
+mai|1|main!1^34#5*18@
+pri|1|print_items!1^29#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
