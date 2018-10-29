@@ -1,8 +1,8 @@
 
-‘squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¢±ëùÿÿÿÿ8Ÿåñÿå,H{RMINORZ
+Œsquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ãw8…ëËıå,HìRMINORZ
 CODE_SMELL
-‹squid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ãw8…ëËıå,H|RMINORZ
+rsquid:S2184?"@Cast one of the operands of this addition operation to a "long".(öÒê‰ıÿÿÿÿ8çÙìıå,HíRMINORZBUG
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¢±ëùÿÿÿÿ8Ÿåñÿå,HîRMINORZ
 CODE_SMELL
-qsquid:S2184?"@Cast one of the operands of this addition operation to a "long".(öÒê‰ıÿÿÿÿ8çÙìıå,H}RMINORZBUG
-‘squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(†á´Ûùÿÿÿÿ8ˆ‰øÿå,H~RMINORZ
+’squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(†á´Ûùÿÿÿÿ8ˆ‰øÿå,HïRMINORZ
 CODE_SMELL

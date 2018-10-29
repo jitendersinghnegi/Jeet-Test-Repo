@@ -35,3 +35,5 @@ o
 Rsrc/main/java/org/negi/zostel/messenger/exception/DataNotFoundExceptionMapper.java,2/f/2fe0ca0a765448fb19bd8cb2647d09687f11e450
 g
 7src/main/java/org/negi/zostel/messenger/model/Link.java,8/d/8d7ac5b0038b3943bc93e0fe62100c0194dc5e4a
+v
+Fsrc/main/java/org/negi/zostel/messenger/database/MySqlDbConnector.java,7/0/70799d718428e884f68f107dcc2faec434181081

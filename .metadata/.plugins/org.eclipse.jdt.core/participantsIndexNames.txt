@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+/Users/Jitender/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/785804733.index
+/JSPFundamentals/src
 /Users/Jitender/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/426931991.index
 /messenger/src/main/java

@@ -50,6 +50,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/Jitender/eclipse-workspace"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -62,13 +63,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.negi.zostel.messenger"/>
 		</list>
 		<list key="groupId">
-			<item value="org.negi.zostel"/>
 		</list>
 		<list key="artifactId">
-			<item value="messenger"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
